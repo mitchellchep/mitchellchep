@@ -10,7 +10,7 @@
 
 ### 💻 About Me
 - 🎨 I’m a **Frontend Developer** who loves turning ideas into clean, responsive web experiences.  
-- 🧩 I work mostly with **Next.js**, **React**, **Flask**, and **MySQL**.  
+- 🧩 I work mostly with **Next.js**, **React**, **PHP**, **Python**,**Flask**, and **MySQL**.  
 - 🚀 I’m on a journey to master **full-stack development** and build impactful digital solutions.  
 - 🧠 I enjoy problem-solving, exploring UI/UX, and making apps that feel _alive_.  
 - 🙏 My goal is to use my **God-given ability** to impact both myself and those around me.
